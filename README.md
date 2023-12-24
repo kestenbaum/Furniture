@@ -3,6 +3,6 @@ This is a project that was carried out as a freelance project by order of the co
 ## Technology
 ## HTML5
 ## CSS/SCSS
-## JS
+## JS/Jquery
 
 ## Link  https://kestenbaum.github.io/Furniture/
