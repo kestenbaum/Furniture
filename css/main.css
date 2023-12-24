@@ -201,7 +201,7 @@ body {
   color: #343B4C;
   padding-left: 30px;
   min-height: 26px;
-  background: url("../img/icon/whatsapp (3) 2.webp") no-repeat left center/26px 26px;
+  background: url("assets/icon/whatsapp (3) 2.webp") no-repeat left center/26px 26px;
 }
 .header__phone-link:hover {
   color: #343B4C;
@@ -286,7 +286,7 @@ body {
 }
 
 .first__screen {
-  background: url("../img/screen__bg.webp") no-repeat left center;
+  background: url("assets/screen__bg.webp") no-repeat left center;
   background-size: cover;
 }
 
@@ -384,15 +384,15 @@ body {
 }
 
 .group1 {
-  background: url("../img/Group1.png") no-repeat center;
+  background: url("assets/Group1.png") no-repeat center;
 }
 
 .group2 {
-  background: url("../img/Group2.png") no-repeat center;
+  background: url("assets/Group2.png") no-repeat center;
 }
 
 .group3 {
-  background: url("../img/Group3.png") no-repeat center;
+  background: url("assets/Group3.png") no-repeat center;
 }
 
 .card__tittle {
@@ -677,7 +677,7 @@ body {
 
 .map {
   padding: 52px 0;
-  background: url("../img/map.webp") center no-repeat;
+  background: url("assets/map.webp") center no-repeat;
   background-size: cover;
 }
 
@@ -849,15 +849,15 @@ footer {
 }
 
 .footer__phone {
-  background: url("../img/tel.webp") no-repeat left center;
+  background: url("assets/tel.webp") no-repeat left center;
 }
 
 .footer__address {
-  background: url("../img/nv.webp") no-repeat left center;
+  background: url("assets/nv.webp") no-repeat left center;
 }
 
 .footer__message {
-  background: url("../img/ms.webp") no-repeat left center;
+  background: url("assets/ms.webp") no-repeat left center;
 }
 
 /*# sourceMappingURL=main.css.map */
